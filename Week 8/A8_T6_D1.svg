@@ -1,0 +1,2 @@
+dwg.add(Rect(insert=(10, 10), size=(100, 100), fill="blue", stroke="black"))
+dwg.add(Circle(center=(60, 60), r=30, fill="red", stroke="black"))
