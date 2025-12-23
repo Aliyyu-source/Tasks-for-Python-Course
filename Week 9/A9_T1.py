@@ -1,6 +1,6 @@
 ########################################################
 # Task A9_T1
-# Developer First_name Last_name
+# Developer Aliyyu Zen-Abdeen
 # Date 2025-12-23
 ########################################################
 
@@ -26,3 +26,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
